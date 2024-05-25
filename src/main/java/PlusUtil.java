@@ -13,6 +13,7 @@ public class PlusUtil {
 
     /**
      * Тест класс
+     * @param args параметры программы
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
