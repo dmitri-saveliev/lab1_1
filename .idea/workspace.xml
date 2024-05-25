@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4c89920-d950-4afd-bab5-012773f5c40b" name="Changes" comment="initial">
+    <list default="true" id="f4c89920-d950-4afd-bab5-012773f5c40b" name="Changes" comment="add javadoc comment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlusUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PlusUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Simple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Simple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Simple.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,28 @@
       <option name="project" value="LOCAL" />
       <updated>1716383755962</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change structure">
+      <created>1716602079313</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716602079313</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add simple">
+      <created>1716602935205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716602935205</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add javadoc comment">
+      <created>1716673075949</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716673075949</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +100,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="change structure" />
+    <MESSAGE value="add simple" />
+    <MESSAGE value="add javadoc comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add javadoc comment" />
   </component>
 </project>
