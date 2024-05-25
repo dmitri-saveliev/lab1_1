@@ -1,7 +1,5 @@
 package main.java;
 
-import main.java.util.Simple;
-
 import java.util.Scanner;
 
 /**
@@ -21,7 +19,5 @@ public class PlusUtil {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
         System.out.println(a + b);
-
-        new Simple();
     }
 }
